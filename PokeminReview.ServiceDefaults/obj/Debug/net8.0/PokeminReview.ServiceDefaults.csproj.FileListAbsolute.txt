@@ -1,0 +1,12 @@
+D:\PokeminReview\PokeminReview.ServiceDefaults\bin\Debug\net8.0\PokeminReview.ServiceDefaults.deps.json
+D:\PokeminReview\PokeminReview.ServiceDefaults\bin\Debug\net8.0\PokeminReview.ServiceDefaults.dll
+D:\PokeminReview\PokeminReview.ServiceDefaults\bin\Debug\net8.0\PokeminReview.ServiceDefaults.pdb
+D:\PokeminReview\PokeminReview.ServiceDefaults\obj\Debug\net8.0\PokeminReview.ServiceDefaults.csproj.AssemblyReference.cache
+D:\PokeminReview\PokeminReview.ServiceDefaults\obj\Debug\net8.0\PokeminReview.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\PokeminReview\PokeminReview.ServiceDefaults\obj\Debug\net8.0\PokeminReview.ServiceDefaults.AssemblyInfoInputs.cache
+D:\PokeminReview\PokeminReview.ServiceDefaults\obj\Debug\net8.0\PokeminReview.ServiceDefaults.AssemblyInfo.cs
+D:\PokeminReview\PokeminReview.ServiceDefaults\obj\Debug\net8.0\PokeminReview.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\PokeminReview\PokeminReview.ServiceDefaults\obj\Debug\net8.0\PokeminReview.ServiceDefaults.dll
+D:\PokeminReview\PokeminReview.ServiceDefaults\obj\Debug\net8.0\refint\PokeminReview.ServiceDefaults.dll
+D:\PokeminReview\PokeminReview.ServiceDefaults\obj\Debug\net8.0\PokeminReview.ServiceDefaults.pdb
+D:\PokeminReview\PokeminReview.ServiceDefaults\obj\Debug\net8.0\ref\PokeminReview.ServiceDefaults.dll
